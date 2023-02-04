@@ -1,3 +1,5 @@
+package L02ConditionalStatements;
+
 import java.util.Scanner;
 
 public class Demo1 {
@@ -15,8 +17,6 @@ public class Demo1 {
         } else {
             System.out.println(num3);
         }
-
-
 
 
 

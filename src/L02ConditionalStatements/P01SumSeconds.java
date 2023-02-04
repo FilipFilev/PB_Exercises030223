@@ -1,3 +1,5 @@
+package L02ConditionalStatements;
+
 import java.util.Scanner;
 
 public class P01SumSeconds {
